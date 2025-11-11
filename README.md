@@ -39,7 +39,7 @@ Calculadora muy simple, entrada y salida por terminal. Simplemente, reforzar uso
 
 La salida por terminal seria algo asi.
 
-![imagen terminal](src/image.png)
+![imagen terminal](.github/assets/image.png)
 
 Ya se usaria el programa introduciendo numeros por terminal, los decimales con ```,```.
 
